@@ -6,7 +6,7 @@
     <a href="https://www.apple.com/macos/big-sur/">
         <img src="https://img.shields.io/badge/Big_Sur-11.6.5-purple.svg"></a>
     <a href="https://www.apple.com/macos/monterey/">
-        <img src="https://img.shields.io/badge/Monterey-12.3.1-brown"></a>
+        <img src="https://img.shields.io/badge/Monterey-12.6.2-brown"></a>
     <a href="https://www.gigabyte.com/Motherboard/GA-H170-D3H-rev-10#ov">
         <img src="https://img.shields.io/static/v1?message=rev%201.0&logo=GA-H170-D3H&labelColor=5c5c5c&color=1182c3&logoColor=white&label=GA-H170-D3H"/></a>
     <a href="https://github.com/acidanthera/OpenCorePkg">
@@ -18,8 +18,8 @@
         <img src="./GA.png" alt="GA-H170 macOS" width="500"> </a>
 </p>
 
-#### I am not responsible for any damages you may cause.
-
+#### <h2 style="color: #02f6d2" >I am not responsible for any damages you may cause.<h1>
+#### <h2 style="color:red" >Be careful, this work is very dangerous, if you don't have the necessary information about the hardware and do not need a Mac, Don't do it<h1>
 #### If my work here helped you. Please give me stars to support me
 
 - Complete EFI packs are available in the releases page.
